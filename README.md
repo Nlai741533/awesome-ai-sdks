@@ -221,3 +221,15 @@ An open source library for building AI-powered user interfaces.
 </details>
 
 
+## [EFC (Everything Fact-Checked)](https://github.com/Nlai741533/EFC-Plugin)
+EFC is a fact-checking tool for AI-generated research reports. It catches 5 systematic failure modes (unit errors, fabricated interpolation, source conflation, stale data, attribution laundering) through an agent-agnostic SKILL.md, CLI (`efc`), and GitHub Action. Includes source-content verification that fetches cited URLs and checks whether claimed figures actually appear in the source text.
+
+<details>
+
+### Links
+- [GitHub](https://github.com/Nlai741533/EFC-Plugin)
+- [Standalone Skill (one file, any agent)](https://github.com/Nlai741533/EFC-standalone)
+
+</details>
+
+
